@@ -3,7 +3,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		a(100);
-
+		System.out.println("Finaliza Main");
 	}
 	
 	public static void a(int i)  {
